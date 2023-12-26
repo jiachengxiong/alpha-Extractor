@@ -1,6 +1,6 @@
 # alpha-Extractor
 
-This GitHub repository contains the test data  for paper “αExtractor: a system for automatic extraction of chemical information from biomedical literature”
+This GitHub repository contains the test data  for paper [“αExtractor: a system for automatic extraction of chemical information from biomedical literature”](https://link.springer.com/article/10.1007/s11427-023-2388-x)
 
 αExtractor is an online server developed by AlphaMa and SIMM for automatic extraction of chemical structure from literature. With high recognition accuracy and fast processing speed, αExtractor may facilitate automated chemical literature mining and data-driven drug design.
 

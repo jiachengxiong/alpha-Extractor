@@ -7,3 +7,7 @@ This GitHub repository contains the test data  for paper “αExtractor: a syste
 The molecular image recognition model in αExtractor is an improved version of our winning model in the [Bristol-Myers Squibb – Molecular Translation competition](https://www.kaggle.com/competitions/bms-molecular-translation). It not only performs outstandingly on some common benchmark data sets, but also can recognize molecular images with background, low quality, and even hand-drawn molecular images. Furthermore, unlike conventional molecular translation models, which only predict molecular SMILES or InChI, αExtractor can also predict the atomic positions and bond types in the image to reconstruct the molecular graph.
 
 ![](Fig_1.png)
+
+## Using links:
+
+[https://extractor.alphama.com.cn/csr](https://extractor.alphama.com.cn/csr)
